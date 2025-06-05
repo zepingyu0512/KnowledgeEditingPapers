@@ -356,6 +356,9 @@ Yanbo Dai, Zhenlan Ji, Zongjie Li, Shuai Wang.
 [[paper](https://arxiv.org/abs/2505.11876)]
 [[code](https://github.com/ybdai7/NAMET-massive-editing)]
 
+29. **Understanding and Mitigating Gender Bias in LLMs via Interpretable Neuron Editing**  <br />
+Zeping Yu, Sophia Ananiadou.  [[paper](https://arxiv.org/pdf/2501.14457)]
+
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
